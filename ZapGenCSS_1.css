@@ -1,0 +1,81 @@
+body {
+    background-color:#1a2e50;
+}
+
+#timerheader {
+    width:80%;
+    height: 500px;
+    background-color: silver;
+    border-radius: 8px;
+    margin: 2.5%;
+    position: relative;
+    left: 5%
+} 
+			
+H1 {
+    color:skyblue;
+    text-align: center;
+}
+			
+H2 {
+	text-align: center;
+    font-family: Arial;
+    font-size: 25px;
+    color: rgb(117, 61, 14);
+}
+
+h3{
+    text-align: center;
+    font-family: Verdana;
+    font-size: 20px;
+    color: rgb(25, 13, 65); 
+}
+
+button{
+	background-color: sienna;
+    color: skyblue;
+	font-style: italic;
+    font-size: 175%;
+    border-radius: 8px;
+    width: 28%;
+    height: 175px;
+    left: 22%;
+}
+
+#time{
+    text-align: center;
+    width: 100%;
+    font: size 78px;           
+}
+
+#ButtonSpace{
+    width: 12%;
+}
+
+#TimeNumbers{
+    font-family: Arial;
+    font-size: 35px;
+    color: rgb(117, 61, 14);
+}
+
+label{
+    font-family: Arial;
+    font-size: 35px;
+    color: rgb(131, 148, 158);
+}
+
+.studnentsReturns{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: rgb(131, 148, 158);
+    width:25%;
+    height: 120px;
+    background-color: silver;
+    border-radius: 8px;
+    margin: 2.5%;
+    position: relative;
+}
+
+div{
+    float: left;
+}
